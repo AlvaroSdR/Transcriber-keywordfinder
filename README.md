@@ -36,6 +36,9 @@ The script assumes that the input text file contains keywords, groups, and sets 
 The script uses the first sheet for the summary and creates additional sheets for "Pains" and "Benefits" information in the Excel file.
 The script auto-sizes the columns in the generated Excel file for better readability.
 
+## Disclaimer
+This script is provided as is and without any warranty. Use it at your own risk.
+
 ## Contributing
 If you would like to contribute to this project, please contact in advance. Any contributions are welcome!
 
