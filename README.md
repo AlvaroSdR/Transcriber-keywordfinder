@@ -30,6 +30,7 @@ Update the input_file variable in the script with the filename of your input tex
 Run the script using Python 3.x.
 The script will generate an Excel file named "outputs.xlsx" in the same folder as the input file.
 Open "outputs.xlsx" to view the summary and detailed information in the different sheets.
+Note: Please be aware that you need LinkedIn Develper API keys for the correct usage of the application.
 
 ## Notes
 The script assumes that the input text file contains keywords, groups, and sets in the specified format (one entry per line, separated by tabs).
