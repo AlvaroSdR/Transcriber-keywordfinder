@@ -21,7 +21,8 @@ The script requires the following dependencies:
 You can install the openpyxl library using the following command:
 
 ```bash
-pip install openpyxl``
+pip install openpyxl
+```
 
 ## Usage
 Place the text file containing keywords in the same folder as the script.
